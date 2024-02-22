@@ -9,9 +9,6 @@ layer_indices = net.getUnconnectedOutLayers().flatten().tolist()
 output_layers = [layer_names[idx - 1] for idx in layer_indices]
 
 
-
-
-
 # Load classes
 classes = []
 with open("coco.names", "r") as f:
