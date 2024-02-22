@@ -13,7 +13,7 @@ ATLAS is short form for Adaptive Traffic Lights Ai System.
 
 ## Installation
 
-[https://github.com/NiharGandhi/ATLAS/tree/main]
+https://github.com/NiharGandhi/ATLAS/tree/main
 
 ## Usage
 
